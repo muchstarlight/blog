@@ -1,39 +1,15 @@
+# 关于我 / About Me
 
-Momo 取自小红书📕，每个新用户最初的昵称，象征着初始新生。博客的设计理念也来自于此，从简约出发，在复杂功能与简约设计之间达到一种平衡。
+你好！我是 **多星光** ，一个高中生，喜欢电脑，手工一类的东西。
 
-## ✨ 特性
+## 📫 联系方式
 
-* **极简设计**：页面设计简约，黑白为主色调，蓝色进行点缀
-* **深色模式**：支持手动切换或自动跟随系统
-* **文章搜索功能**：使用 [pagefind](https://pagefind.app/) 实现本地化搜索功能
-* **国际化（i18n）**：支持多语言切换，目前支撑简体中文、英文
-* **移动端适配**：组件针对移动端进行优化，拥有和电脑浏览器一样的使用体验
-* **评论功能**：支持本地部署和 Cloudflare 部署，具体参考 [Backend](https://github.com/Motues/Momo-Backend)
-* **丰富的Markdown语法**：支持 Katex，Typst，Alert 组件，Github 卡片，自定义语法等
-* 其他基本功能：文章分类，目录，RSS订阅，文字统计，阅读时间
+如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
 
+- 💻 **GitHub**: [muchstarlight](https://github.com/muchstarlight)
+- ✉️ **Email**: [muchstarlight@qq.com](mailto:muchstarlight@qq.com)
 
-## 🚀 快速开始
+---
 
-1. 克隆本项目
-    ```bash
-    git clone https://github.com/Motues/Momo.git
-    cd Momo
-    ```
-2. 运行 `pnpm install` 安装依赖（使用 `npm install -g pnpm` 安装 `pnpm`）
-3. 运行 `pnpm dev` 启动开发服务器
+*感谢你的来访！希望在这里能找到对你有用的内容！*
 
-## 🔧 配置
-
-参考[配置指南](/blog/intro/config)，阅读对应文章获取详细信息。
-
-## 📚 更新
-
-参考[更新指南](/blog/intro/release)，介绍如何更新项目。
-
-
-## 📚 参考
-
-* [Astro](https://astro.build/)
-* [Fuwari](https://github.com/saicaca/fuwari)
-* [Tyndall](https://github.com/moyuin-aka/tyndall-public)

@@ -7,7 +7,7 @@ import type {
 import type { FriendLink } from "./types/friend"
 
 export const siteConfig: SiteConfig = {
-    title: "Momo",
+    title: "Muchstarlight",
     subTitle: "Blog",
 
     favicon: "/favicon/favicon.ico", // Path of the favicon, relative to the /public directory
@@ -23,7 +23,7 @@ export const siteConfig: SiteConfig = {
     comments: {
         enable: true, // Whether to enable comments
         platform: "default", // Comment platform, set "default" to use Momo-backend, also supports "twikoo"
-        backendUrl: "https://api-momo.motues.top" // Backend URL for comments
+        backendUrl: "https://api-momo.muchstarlight.top" // Backend URL for comments
     },
     theme: {
         AOS: true, // Whether to enable AOS (Animate On Scroll) for animations
@@ -33,11 +33,11 @@ export const siteConfig: SiteConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-    avatar: "assets/Motues.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-    name: "Motues",
-    description: "Life is colorful!",
-    indexPage: "https://www.motues.top",
-    startYear: 2024,
+    avatar: "assets/Muchstarlight.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    name: "Muchstarlight",
+    description: "Love the world!",
+    indexPage: "https://blog.muchstarlight.top",
+    startYear: 2026,
 }
 
 export const licenseConfig: LicenseConfig = {
@@ -59,5 +59,5 @@ export const friendLinkConfig: FriendLink[] = [
         url: 'https://astro.build',
         description: 'Build fast websites, faster.'
     }
-    // Add more friend links here
+    
 ]
